@@ -1,0 +1,6 @@
+/* À compléter : une présentation simple, lisible et utilisable. */
+
+.liste_produits{
+    display: flex;
+    justify-content: flex-start; /* Équivalent sémantique et technique de l'alignement à gauche */
+}
